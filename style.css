@@ -22,6 +22,10 @@ a:focus {
     border: 3px solid red;
 }
 
+.social:focus {
+    padding-top: 12px;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -832,7 +836,7 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img/agence-la-panthere.webp");
 }
 
 .bg-presentation {
